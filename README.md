@@ -153,6 +153,45 @@ Support data-driven decision-making
 
 ⸻
 
+## 💡 Recommendations for Improvement
+
+Based on the insights obtained from the Global Superstore Sales Performance Dashboard, the following recommendations are proposed to improve business performance and support sustainable growth:
+
+### 1. Invest in High-Performing Product Categories
+
+Increase inventory levels, marketing efforts, and promotional campaigns for product categories that consistently generate the highest revenue. Prioritizing these categories can maximize sales and improve overall business performance.
+
+### 2. Strengthen High-Revenue Regions
+
+Expand business operations and allocate additional resources to regions with strong sales performance. Maintaining adequate stock levels and implementing region-specific marketing strategies can help sustain revenue growth.
+
+### 3. Improve Performance in Underperforming Regions
+
+Conduct further market analysis to identify the causes of low sales in underperforming regions. Tailored promotional campaigns, localized pricing strategies, and improved customer engagement may help increase revenue in these markets.
+
+### 4. Focus on High-Value Customer Segments
+
+Develop customer retention and loyalty programs for the customer segments that contribute the highest revenue. Strengthening relationships with existing customers can increase repeat purchases and long-term customer value.
+
+### 5. Optimize Product Portfolio
+
+Regularly review product performance to identify top-selling and underperforming products. Expanding successful product lines while reassessing low-performing products can improve overall sales performance.
+
+### 6. Improve Demand Forecasting
+
+Leverage historical sales trends to improve demand forecasting and inventory planning. Accurate forecasting can reduce stock shortages, minimize excess inventory, and improve operational efficiency.
+
+### 7. Optimize Shipping Operations
+
+Analyze shipping mode usage to ensure that the most frequently used shipping methods continue to meet customer expectations for cost, speed, and reliability. Continuous evaluation of shipping performance can improve customer satisfaction and operational effectiveness.
+
+### 8. Establish Continuous Performance Monitoring
+
+Maintain and regularly update the Power BI dashboard to monitor key performance indicators (KPIs), identify emerging trends, and support timely, data-driven business decisions.
+
+---
+
+
 🏁 Conclusion
 
 This project demonstrates how SQL and Power BI can be combined to transform raw sales data into meaningful business insights. Through interactive visualizations and KPI tracking, decision-makers can quickly identify performance trends, monitor revenue drivers, and make informed business decisions.
