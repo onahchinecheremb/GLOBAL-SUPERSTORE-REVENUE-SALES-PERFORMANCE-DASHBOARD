@@ -165,11 +165,11 @@ This project demonstrates how Excel SQL and Microsoft Power BI can transform raw
 
 Executive Overview
 
-(Insert Page 1 Screenshot Here)
+
 
 Regional & Shipping Analysis
 
-(Insert Page 2 Screenshot Here)
+
 
 ## 🧰 Tools Used
 
