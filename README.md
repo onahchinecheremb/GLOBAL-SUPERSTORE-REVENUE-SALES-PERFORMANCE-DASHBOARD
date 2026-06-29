@@ -2,7 +2,7 @@
 
 ## Introduction and Overview
 
-*The global superstore Revenue and Sales performance dataset*  is a dataset that is generated from a retail superstores across states in United state.
+*The global superstore Revenue and Sales performance dataset*  is a dataset that is generated from a retail superstores across states in United states.
 This project analyzes four years (2015–2018) of the Global Superstore dataset 
 using Excel, SQL Server Management Studio (SSMS) and Microsoft Power BI. 
 
@@ -99,7 +99,7 @@ Visualizations
 * Top Customers by Revenue
 * Top Products by Revenue
 
-Page 2 – Regional & Shipping Analysis
+Page 2 & 3 – Regional & Shipping Analysis
 
 Visualizations
 
@@ -109,11 +109,10 @@ Visualizations
 * Revenue by Ship Mode
 * Yearly Sales Performance
 
-## 🔍 Insights
-
 The analysis revealed several key business insights:
 
 * Technology generated the highest revenue among all product categories.
+* Phones generates more revenue
 * The West Region recorded the highest sales performance.
 * Consumer customers contributed the largest share of revenue.
 * Standard Class was the most frequently used shipping mode.
@@ -164,12 +163,13 @@ This project demonstrates how Excel SQL and Microsoft Power BI can transform raw
 ## 📊 Dashboard Preview
 
 Executive Overview
+!(<img width="879" height="494" alt="Global superstore screenshot 1" src="https://github.com/user-attachments/assets/54e52ca6-bc62-42a1-9d3f-173e6d5e4342" />)
 
+Regional 
+!(<img width="876" height="494" alt="Global superstore screenshot 2" src="https://github.com/user-attachments/assets/ad7859be-96cc-4037-b16f-061e3f6151d2" />)
 
-
-Regional & Shipping Analysis
-
-
+Shipping Analysis
+!(<img width="876" height="492" alt="Global superstore screenshot 3" src="https://github.com/user-attachments/assets/93ad0bcf-3073-4445-9a69-2aac79b330a9" />)
 
 ## 🧰 Tools Used
 
